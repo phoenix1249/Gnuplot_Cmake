@@ -1,4 +1,0 @@
-/home/haddock/5.7/Gnuplot_Cmake/build/CMakeFiles/rebuild_cache.dir
-/home/haddock/5.7/Gnuplot_Cmake/build/CMakeFiles/edit_cache.dir
-/home/haddock/5.7/Gnuplot_Cmake/build/CMakeFiles/main.dir
-/home/haddock/5.7/Gnuplot_Cmake/build/CMakeFiles/exemple.dir
