@@ -47,6 +47,9 @@
         "new": "cpp",
         "optional": "cpp",
         "string_view": "cpp",
-        "algorithm": "cpp"
+        "algorithm": "cpp",
+        "dense": "cpp",
+        "mutex": "cpp",
+        "numeric": "cpp"
     }
 }

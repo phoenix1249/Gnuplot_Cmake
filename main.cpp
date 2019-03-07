@@ -1,4 +1,4 @@
-#include "gnuplot-iostream.h"
+#include "include/gnuplot-iostream.h"
 #include <boost/tuple/tuple.hpp>
 #include <iostream>
 #include <vector>
