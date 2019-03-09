@@ -18,8 +18,6 @@ file(GLOB HEADERS
 
 
     
-add_executable(main main.cpp)
 add_executable(exemple exemple.cpp)
 
-target_link_libraries(main ${Boost_LIBRARIES})
 target_link_libraries(exemple ${SOURCES} ${HEADERS} ${Boost_LIBRARIES})
